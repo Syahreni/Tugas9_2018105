@@ -1,0 +1,25 @@
+<resources>
+    <string name="deskription_menu">Klinik merupakan fasilitas kesehatan yang menyelenggarakan pelayanan medis, berupa medis dasar dan atau medis spesialistik. Diselenggarakan oleh lebih dari satu jenis tenaga kesehatan juga dipimpin oleh seorang tenaga medis berdasarkan Permenkes RI No.9, 2014.</string>
+    <string name="BUKA">BUKA 24 JAM </string>
+    <string name="app_name">Smart Klinik</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="dokter">
+        <item>Dokter Gigi</item>
+        <item>Dokter Anak</item>
+        <item>Dokter Kandungan</item>
+        <item>Dokter jantung</item>
+    </string-array>
+    <string-array name="star">
+        <item> drg.Syahreni, Sp.KGA(K), Ph.D</item>
+        <item>dr.Syamsuddin Sp.A</item>
+        <item>dr.Mustika Sp.OG</item>
+        <item>dr.Andi Sp.PD</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Malang</item>
+        <item>Makassar</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+    </string-array>
+</resources>
